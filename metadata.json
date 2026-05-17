@@ -1,0 +1,8 @@
+{
+  "name": "PhishShield: Security Awareness",
+  "description": "An interactive cybersecurity awareness platform focused on training users to identify and prevent phishing attacks, social engineering, and online scams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
